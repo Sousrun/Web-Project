@@ -24,6 +24,13 @@ h1
 {
     color: red;
 }
+.container {
+    margin: 1rem;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
 .title
 {
     position: absolute;
