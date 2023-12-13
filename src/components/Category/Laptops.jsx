@@ -28,7 +28,7 @@ const Laptops = () => {
         </div>
 
         <div className="content">
-        <div> <img src="https://content.ibuypower.com/cdn-cgi/image/width=256,format=auto,quality=75/https://content.ibuypower.com/Images/Components/26936/gaming-pc-01-Lancool-216-black-main-400.png?v=3ac7367241ae3d255f19c97687c4e74b71829d8d"></img>
+        <div> <img src="https://content.ibuypower.com/cdn-cgi/image/width=256,format=auto,quality=75/https://content.ibuypower.com/Images/Components/26803/G713PV-DS94-01-400-.png?v=a5626834561d7537bf7d113e61a427f44457ddbf"></img>
         <p><b>AMD Gaming Pc Configurator 4</b></p>  
         <p className="text">Window 11 Home
             AMD Ryzen 7 7700X CPU
